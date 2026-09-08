@@ -1,0 +1,3 @@
+# The cache is regenerable and rewrites on every run. Versioning a binary
+# that changes on read would make this history useless as evidence.
+resolutions.sqlite3
